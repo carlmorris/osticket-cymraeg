@@ -493,7 +493,7 @@ msgstr "Pwnc cymorth"
 #: include/staff/templates/tickets.tmpl.php:99
 #, php-format
 msgid "Department"
-msgstr ""
+msgstr "Adran"
 
 #: include/ajax.content.php:73
 msgid "Assigned/closing agent"
