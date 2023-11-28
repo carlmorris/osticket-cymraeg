@@ -364,7 +364,7 @@ msgstr ""
 #: include/staff/templates/tickets.tmpl.php:96
 #: scp/emailtest.php:108
 msgid "Subject"
-msgstr ""
+msgstr "Pwnc"
 
 #: include/ajax.content.php:60
 msgid "Phone number | ext"
