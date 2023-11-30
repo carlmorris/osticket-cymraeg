@@ -413,7 +413,7 @@ msgstr ""
 #: include/staff/templates/user-register.tmpl.php:86
 #: include/staff/templates/users.tmpl.php:83
 msgid "Status"
-msgstr ""
+msgstr "Statws"
 
 #: include/ajax.content.php:62
 #: include/class.export.php:69
@@ -2199,7 +2199,7 @@ msgstr "Sefydliad"
 #: include/staff/templates/user-account.tmpl.php:46
 #: include/staff/templates/users.tmpl.php:82
 msgid "Email"
-msgstr ""
+msgstr "E-bost"
 
 #: include/class.export.php:369
 #, php-format
@@ -2785,12 +2785,12 @@ msgstr "Lefel Blaenoriaeth"
 #: include/class.forms.php:1274
 msgctxt "ticket state name"
 msgid "Open"
-msgstr "Agor "
+msgstr "Agor"
 
 #: include/class.forms.php:1275
 msgctxt "ticket state action"
 msgid "Open"
-msgstr "Agor "
+msgstr "Agor"
 
 #: include/class.forms.php:1278
 msgctxt "ticket state name"
@@ -4856,7 +4856,7 @@ msgstr "Dewisiadau"
 #: include/staff/templates/user-account.tmpl.php:64
 #: include/staff/templates/user-register.tmpl.php:138
 msgid "Time Zone"
-msgstr ""
+msgstr "Parth Amser"
 
 #: include/client/profile.inc.php:26
 #: include/staff/profile.inc.php:89
@@ -4908,19 +4908,19 @@ msgstr "Manylion Mynediad"
 #: include/client/profile.inc.php:78
 #: include/staff/profile.inc.php:216
 msgid "Current Password"
-msgstr ""
+msgstr "Cyfrinair Presennol"
 
 #: include/client/profile.inc.php:88
 #: include/staff/profile.inc.php:226
 #: include/staff/templates/user-account.tmpl.php:118
 msgid "New Password"
-msgstr ""
+msgstr "Cyfrinair Newydd"
 
 #: include/client/profile.inc.php:97
 #: include/client/register.inc.php:100
 #: include/staff/profile.inc.php:235
 msgid "Confirm New Password"
-msgstr ""
+msgstr "Cadarnhau Cyfrinair Newydd"
 
 #: include/client/pwreset.login.php:8
 msgid "Enter your username or email address again in the form below and press the <strong>Login</strong> to access your account and reset your password."
@@ -5007,7 +5007,7 @@ msgstr "Unrhyw Statws"
 #: include/client/tickets.inc.php:126
 msgctxt "ticket-status"
 msgid "Open"
-msgstr "Agor "
+msgstr "Agor"
 
 #: include/client/tickets.inc.php:136
 #: include/staff/faq-view.inc.php:62
@@ -8898,7 +8898,7 @@ msgstr ""
 #: include/staff/ticket-open.inc.php:385
 msgctxt "action-button"
 msgid "Open"
-msgstr "Agor "
+msgstr "Agor"
 
 #: include/staff/ticket-view.inc.php:13
 msgid "Unable to obtain a lock on the ticket"
@@ -11546,7 +11546,7 @@ msgstr "Methwyd i greu y tocyn. Cywirwch y gwall(au) a rhowch gynnig arall arni"
 #: scp/tickets.php:387
 msgctxt "queue-name"
 msgid "Open"
-msgstr "Agor "
+msgstr "Agor"
 
 #: scp/tickets.php:427
 msgid "Stale Tickets"
