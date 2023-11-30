@@ -2250,7 +2250,7 @@ msgstr ""
 #: include/staff/templates/user-account.tmpl.php:20
 #: include/staff/templates/user-account.tmpl.php:35
 msgid "User Information"
-msgstr ""
+msgstr "Manylion Defnyddiwr"
 
 #: include/class.filter.php:29
 msgid "Email Meta-Data"
@@ -3520,7 +3520,7 @@ msgstr "Rhif Ffôn"
 #: include/staff/ticket-view.inc.php:187
 #: include/staff/tickets.inc.php:655
 msgid "Create Date"
-msgstr "Creu Dyddiad"
+msgstr "Dyddiad Creu"
 
 #: include/class.pdf.php:204
 msgid "unknown"
